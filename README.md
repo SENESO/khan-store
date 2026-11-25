@@ -10,6 +10,20 @@ idempotent order updates) is exercised here the way a merchant would use it.
 The catalog is a Khan el-Khalili shelf: koshari kits, Sinai honey, Aswan
 dates, karkade, tawla boards, copper kanakas - priced in EGP.
 
+## What it looks like
+
+Browse, add to cart, check out, pay - the full demo-mode flow:
+
+![The whole flow: storefront, cart, checkout, demo payment, paid order](docs/screenshots/flow.gif)
+
+| Storefront | Cart |
+| --- | --- |
+| ![Storefront](docs/screenshots/01-storefront.png) | ![Cart](docs/screenshots/02-cart.png) |
+| **Checkout** | **Demo payment page** |
+| ![Checkout](docs/screenshots/04-checkout-filled.png) | ![Demo payment](docs/screenshots/05-demo-payment.png) |
+| **Paid order** | |
+| ![Paid order](docs/screenshots/06-order-paid.png) | |
+
 ## Run it
 
 ```bash
