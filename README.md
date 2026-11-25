@@ -1,5 +1,7 @@
 # Khan خان
 
+[![CI](https://github.com/SENESO/khan-store/actions/workflows/ci.yml/badge.svg)](https://github.com/SENESO/khan-store/actions/workflows/ci.yml)
+
 A small but real Egyptian e-commerce store: ASP.NET Core 8 API, React
 storefront, SQLite persistence, and **Paymob** checkout - wired through
 [Paymob.Net](https://github.com/SENESO/Paymob.Net), the .NET SDK for Egypt's
